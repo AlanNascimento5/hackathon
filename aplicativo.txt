@@ -1,0 +1,14 @@
+titulo da aplicação: Donate+
+
+breve descrição: O seguinte aplicativo possui o intuito de intermediar doações.
+
+descrição completa: Com o intuito de facilitar doações para os mais necessitados, 
+o aplicativo foi desenvolvido afim de agilizar doações neste tempo de pandemia de 
+Coronavirus (COVID-19), este conta com funções de localizar pontos de doação e 
+calcular rotas de sua localização atual até o destino dos pontos de doações, além de 
+possuir função de direcionar o usuario a um grupo no whatsapp para eles melhor se 
+comunicarem.
+
+link do youtube: https://youtu.be/-1ZAPoXq14o
+
+link do perfil do github: https://github.com/AlanNascimento5
